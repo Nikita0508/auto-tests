@@ -1,2 +1,1 @@
-# auto-tests
-task auto-tests
+It is my first commit!
